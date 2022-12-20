@@ -1,1 +1,3 @@
 je suis le fichier.txt '(ici on est dans xorking directory)
+
+je suis une nouvelle ligne
